@@ -1,3 +1,11 @@
+## 🧭 Table of Contents
+- [Project Overview](#-ipl-match-analysis-2008–2019)
+- [Key Insights](#-key-insights)
+- [Tools Used](#-tools-used)
+- [Project Files](#-project-files)
+- [Sample Charts](#-sample-charts)
+- [How to Run](#-how-to-run)
+- [Future Ideas](#-future-ideas)
 # 🏏 IPL Match Analysis (2008–2019)
 
 This project explores IPL match data from 2008 to 2019 using Python and Pandas.
