@@ -55,6 +55,11 @@ The goal is to extract insights and practice data cleaning, analysis, and visual
 ### Toss Winner vs Match Winner
 ![Toss Winner Pie](plots/toss_pie_chart.png)
 
+### 📊 Strike Rate vs Runs (Top 5 Batsmen Per Season)
+
+![Top Batsmen Scatter Plot](plots/top_batsmen_scatter_per_season.png)
+
+
 ---
 
 ## 📈 How to Run
