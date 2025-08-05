@@ -39,7 +39,8 @@ The goal is to extract insights and practice data cleaning, analysis, and visual
 
 ## 📁 Project Files
 
-- `IPL_Match_Analysis_Cleaned.ipynb` – Main notebook
+- `IPL_Match_Analysis_Cleaned.ipynb` – Main match-level analysis
+- `IPL_Batsman_Analysis.ipynb` – Season-wise batsman performance (Top 5 each year)
 - `matches.csv` – Dataset from [Kaggle](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set)
 
 ---
